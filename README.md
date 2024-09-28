@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surajit-Tunga
+- 👋 Hi, I’m Surajit Tunga
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning JS
 

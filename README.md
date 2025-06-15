@@ -25,7 +25,7 @@
 ![Express](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)
 
 ---
-
+<!--
 ### 📌 Featured Projects
 
 - [Project One](https://github.com/Surajit-Tunga/project-one)  
@@ -37,12 +37,11 @@
 _Add your favorite projects above!_
 
 ---
-
+-->
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/surajittunga)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github)]()
 
 ---
 

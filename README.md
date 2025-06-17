@@ -41,7 +41,7 @@ _Add your favorite projects above!_
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/surajittunga)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github)]()
+[![Portfolio](https://surajit-tunga.github.io/Portfolio/)]()
 
 ---
 

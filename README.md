@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🌐 I’m a passionate web developer.
-- 💻 Skilled in: **HTML, CSS, JavaScript, Django**
+- 💻 Skilled in: **HTML, CSS, JavaScript,React,Tailwind CSS, Django**
 - 🌱 Currently learning: **MERN Stack**
 - ✨ Always exploring new technologies and building cool projects.
 

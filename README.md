@@ -28,7 +28,12 @@
 
 ---
 
-### 📊 My GitHub Dashboard
+### 📊 My Copilot-Style GitHub Dashboard
+
+<p align="center">
+  <!-- Copilot-style glowing blue bar (SVG background) -->
+  <img src="bg.svg" alt="My Copilot-style Dashboard" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&count_private=true&theme=radical" alt="Surajit Tunga's GitHub stats" height="180" />

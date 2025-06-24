@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🌐 I’m a passionate web developer.
-- 💻 Skilled in: **HTML, CSS, JavaScript,React,Tailwind CSS, Django**
+- 💻 Skilled in: **HTML, CSS, JavaScript, React, Tailwind CSS, Django**
 - 🌱 Currently learning: **MERN Stack**
 - ✨ Always exploring new technologies and building cool projects.
 
@@ -20,28 +20,26 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)
 
 ---
-<!--
-### 📌 Featured Projects
 
-- [Project One](https://github.com/Surajit-Tunga/project-one)  
-  _A brief description of what this project does._
+### 📊 My GitHub Dashboard
 
-- [Project Two](https://github.com/Surajit-Tunga/project-two)  
-  _A brief description of what this project does._
-
-_Add your favorite projects above!_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&count_private=true&theme=radical" alt="Surajit Tunga's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 ---
--->
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/surajittunga)
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github)](https://surajit-tunga.github.io/Portfolio/)
 
 ---

@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌐 I’m a passionate web developer.
+- 🌐 I’m a passionate developer.
 - 💻 Skilled in: **HTML, CSS, JavaScript, React, Tailwind CSS, Django, Nodejs, ExpressJS MongoDB**
 - 🌱 Currently learning: **GenAI & ML**
 - ✨ Always exploring new technologies and building cool projects.

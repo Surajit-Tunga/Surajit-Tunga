@@ -6,8 +6,8 @@
 
 ### 👨‍💻 About Me
 
-- 🌐 I’m a passionate developer.
-- 💻 Skilled in: ** MERN STACK DEVELOPMENT **
+- 🌐 I’m a passionate Developer.
+- 💻 Skilled in: MERN STACK DEVELOPMENT 
 - 🌱 Currently learning: **GenAI & ML**
 - ✨ Always exploring new technologies and building cool projects.
 

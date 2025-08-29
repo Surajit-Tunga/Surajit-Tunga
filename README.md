@@ -13,19 +13,10 @@
 
 ---
 
-### 📊 My GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&count_private=true&theme=radical" alt="Surajit Tunga's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-
----
-### 📊 My GitHub Stats  
+### 📊 My GitHub Dashboard  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Surajit Tunga's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit-Tunga&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">

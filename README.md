@@ -24,13 +24,14 @@
 ### 📊 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Surajit Tunga's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit-Tunga&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Surajit Tunga's GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit-Tunga&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
+
 ---
 
 ### 📫 Connect with Me

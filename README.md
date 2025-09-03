@@ -16,7 +16,7 @@
 ### 📊 My GitHub Dashboard  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Surajit Tunga's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="My GitHub stats" height="180" />
 </p>
 
 <p align="center">

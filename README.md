@@ -14,13 +14,9 @@
 
 ### 📊 My GitHub Dashboard  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="My GitHub stats" height="180" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Surajit-Tunga&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 

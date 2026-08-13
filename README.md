@@ -51,8 +51,8 @@ Currently focused on strengthening my skills in **Java, backend development, MER
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Surajit-Tunga&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ Currently focused on strengthening my skills in **Java, backend development, MER
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Surajit-Tunga&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit-Tunga&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---

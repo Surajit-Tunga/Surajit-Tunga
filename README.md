@@ -1,33 +1,122 @@
 # Hi, I'm Surajit Tunga 👋
 
-**Solving, one problem at a time 🚀**
+### 🚀 Software Developer | MERN Stack | Java
+
+> **Solving, one problem at a time.**
+
+I’m a passionate **Software Developer** who enjoys building practical applications, solving programming problems, and exploring modern technologies.
+
+Currently focused on strengthening my skills in **Java, backend development, MERN Stack, Data Structures & Algorithms, and software engineering**.
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌐 I’m a passionate Developer.
-- 💻 Skilled in: MERN STACK DEVELOPMENT & JAVA.
-- ✨ Always exploring new technologies and building cool projects.
-
----
-
-### 📊 My GitHub Dashboard  
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Surajit-Tunga&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=tokyonight&hide_border=true" />
+* 💻 Building applications with **MERN Stack & Java**
+* 🌐 Interested in **Backend Development & Software Engineering**
+* 🧩 Practicing **Data Structures & Algorithms**
+* 🚀 Exploring **Spring Boot and modern backend technologies**
+* 🔭 Always learning, building, and improving
+* 📚 Final-year B.Tech student
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/surajittunga)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github)](https://surajit-five.vercel.app/)
+### Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Tools & Cloud
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajit-Tunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Surajit-Tunga&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surajit-Tunga&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* ☕ Improving my **Java & DSA** skills
+* 🌱 Learning **Spring Boot**
+* ⚙️ Building **backend-focused applications**
+* 🧠 Exploring **AI/ML & GenAI**
+* 🏗️ Working on real-world full-stack projects
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/surajittunga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://surajit-five.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Surajit-Tunga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> **"First, solve the problem. Then, write the code."**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Surajit-Tunga&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <!--
-**Surajit-Tunga/Surajit-Tunga** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+  Thanks for visiting my profile! 🚀
 -->

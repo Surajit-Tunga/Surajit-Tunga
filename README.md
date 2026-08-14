@@ -61,9 +61,6 @@ Currently focused on strengthening my skills in **Java, backend development, MER
 
 ---
 
-
----
-
 ## 🚀 What I'm Currently Working On
 
 * ☕ Improving my **Java & DSA** skills

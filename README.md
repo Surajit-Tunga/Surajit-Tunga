@@ -48,28 +48,19 @@ Currently focused on strengthening my skills in **Java, backend development, MER
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Surajit-Tunga&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Surajit-Tunga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit-Tunga&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Surajit-Tunga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit-Tunga&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surajit-Tunga&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ---
 

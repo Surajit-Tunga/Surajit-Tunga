@@ -52,7 +52,6 @@ Currently focused on strengthening my skills in **Java, backend development, MER
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Surajit-Tunga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit-Tunga&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">

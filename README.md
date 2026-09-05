@@ -70,7 +70,7 @@ Currently focused on strengthening my skills in **Java, backend development, MER
   <a href="https://www.linkedin.com/in/surajittunga" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://surajit-five.vercel.app/" target="_blank">
+  <a href="https://surajittunga.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Surajit-Tunga" target="_blank">
